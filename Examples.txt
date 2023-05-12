@@ -1,4 +1,4 @@
-----Digits Classification Tasks----
+----Digits Classification Tasks---- 
 In order to run the USPS to MNIST experiment for 3 samples per samples using Our methods use:
     python RunExperiment.py --Src "U" --Tgt "M" --SamplesPerClass 3 --Method "SDA_IO" --GPU_ID -1
 In order to run the USPS to MNIST experiment for 3 samples per samples using CCSA/dSNE/NEM use:
